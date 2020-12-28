@@ -1,3 +1,5 @@
+/*백준 9498 시험성적*/
+
 //시험점수를 입력받는다.
 var fs = require('fs');
 
@@ -25,6 +27,7 @@ else if(result >= 60){
 //나머지 F반환
     else{
         grade = 'F';
+        
     }
     
 console.log(grade);
