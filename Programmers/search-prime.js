@@ -61,4 +61,3 @@ function solution(numbers) {
 	}
 	return result;
 }
-solution("12345");
